@@ -16,4 +16,4 @@
 
 
 ## My Github Stats
-[![Tammy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TammyDarego&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Tammy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TammyDarego&show_icons=true)](https://github.com/TammyDarego)
